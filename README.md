@@ -11,7 +11,7 @@
 </div>
   
 
-
+ ![Snake animation](https://github.com/1SHAD0W1/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
 
